@@ -1,4 +1,4 @@
-# CustomerChurnPrediction
+# Customer Churn Prediction
 
 The notebook for customer churn predictions
 
